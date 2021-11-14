@@ -1,0 +1,15 @@
+{
+    "status": true,
+    "data": {
+        "notice": "ZY-Player-Android因为某些手机报毒的原因将于4.18号停止更新，需要备份视频源的请及时备份，后续会改为App V影。关注公众号：“球球不迷路”可下载\n",
+        "noticeVMovie": "欢迎加入精品软件分享QQ群！！！本群会不定时分享各类精品软件！~",
+        "list": [
+            {
+                "image": "https://pic.baixiongz.com/uploads/2021/11/14/1edd3e6e8b04b.jpg",
+                "desc": "点击立即加入",
+                "scaleType": 1,
+                "redirectUrl": "https://jq.qq.com/?_wv=1027&k=1wOgI7z2"
+            }
+        ]
+    }
+}
